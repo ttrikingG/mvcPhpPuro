@@ -1,5 +1,5 @@
 Projeto: MVC completo.</br>
-Status: Imcompleto.</br>
+Status: Incompleto.</br>
 
 Description:</br>
   1 PHP puro Orientado a Objeto</br>
